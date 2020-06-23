@@ -1,0 +1,67 @@
+1. GLOSSARY - 10 points
+
+    1.1. Download a text about Harry Potter.
+
+    1.2. For each distinct word in the text calculate the number of occurrence.
+
+    1.3. Use RegEx..
+
+    1.4. Sort in the DESC mode by the number of occurrence..
+
+    1.5. Find  the first 20 pairs.
+
+    1.6  Find all the proper names
+
+    1.7.  Count them and arrange in alphabetic order.
+
+    1.8.   First 20 pairs and names write into to a file test.txt
+
+    1.9.  Create a fine header for the file
+
+    1.10  Use Java  Collections to demonstrate your experience (Map, List )
+    
+Programm output
+
+First 20 pairs:
+
+Word: the, occurences: 3314
+
+Word: to, occurences: 1850
+
+Word: and, occurences: 1812
+
+Word: a, occurences: 1581
+
+Word: of, occurences: 1250
+
+Word: Harry, occurences: 1213
+
+Word: was, occurences: 1178
+
+Word: he, occurences: 1034
+
+Word: in, occurences: 935
+
+Word: his, occurences: 896
+
+Word: it, occurences: 805
+
+Word: said, occurences: 793
+
+Word: you, occurences: 736
+
+Word: had, occurences: 697
+
+Word: I, occurences: 654
+
+Word: on, occurences: 619
+
+Word: that, occurences: 582
+
+Word: at, occurences: 581
+
+Word: He, occurences: 494
+
+Word: him, occurences: 494
+
+Proper names amount: 1521
