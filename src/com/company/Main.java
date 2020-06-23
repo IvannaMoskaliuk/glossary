@@ -89,7 +89,7 @@ public class Main {
         List<String> properName = new ArrayList<>();
 
         Pattern pattern = Pattern.compile("\\b[A-Z][a-z]{3,}\\b");
-        Matcher matcher = pattern.matcher(harryCleaned);
+        Matcher matcher = pattern.matcher(harry);
         while (matcher.find()) {
             String word = matcher.group();
             properName.add(word);
